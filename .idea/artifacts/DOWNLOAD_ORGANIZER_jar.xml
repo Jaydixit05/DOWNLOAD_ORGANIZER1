@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DOWNLOAD_ORGANIZER:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DOWNLOAD_ORGANIZER_jar</output-path>
+    <root id="archive" name="DOWNLOAD_ORGANIZER.jar">
+      <element id="module-output" name="DOWNLOAD_ORGANIZER" />
+    </root>
+  </artifact>
+</component>
